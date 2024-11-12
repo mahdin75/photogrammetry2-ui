@@ -19,9 +19,9 @@ Here are some examples of the results produced by this code:
 
 | Orientation Type           | Demo                                |
 |-----------------------------|-------------------------------------|
-| **Both-Side Orientation**   | ![Both-Side Orientation](Relative_Orientation/docs/Both-Side.gif) |
-| **Left-Side Orientation**   | ![Left-Side Orientation](Relative_Orientation/docs/Left-side.gif) |
-| **Right-Side Orientation**  | ![Right-Side Orientation](Relative_Orientation/docs/Right-Side.gif) |
+| **Both-Side Orientation**   | ![Both-Side Orientation](docs/Both-Side.gif) |
+| **Left-Side Orientation**   | ![Left-Side Orientation](docs/Left-side.gif) |
+| **Right-Side Orientation**  | ![Right-Side Orientation](docs/Right-Side.gif) |
 
 ## Note
 This code is for learning purposes and may not include advanced photogrammetry functionality.
